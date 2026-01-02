@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wildestone Fashion | Online Garments Retailer</title>
+    <meta name="description" content="Wildestone Fashion is an online fashion garments retailer selling quality clothing via eBay with secure Payoneer payments.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #111;
+            color: #fff;
+            padding: 25px 10px;
+            text-align: center;
+        }
+        section {
+            padding: 30px;
+            background: #fff;
+            margin: 20px auto;
+            max-width: 900px;
+            border-radius: 6px;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            background: #111;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Wildestone Fashion</h1>
+    <p>Quality Fashion | Trusted Online Retailer</p>
+</header>
+
+<section>
+    <h2>Welcome to Wildestone Fashion</h2>
+    <p>
+        Wildestone Fashion is an online fashion retail business providing stylish and
+        high-quality garments to customers worldwide. We focus on modern designs,
+        customer satisfaction, and secure online transactions.
+    </p>
+</section>
+
+<section>
+    <h2>About Us</h2>
+    <p>
+        Wildestone Fashion operates as a digital garments retailer. Our products are sold
+        through established online marketplaces such as eBay. We handle product sourcing,
+        order processing, customer service, and shipping with professionalism and care.
+    </p>
+</section>
+
+<section>
+    <h2>Our Products</h2>
+    <ul>
+        <li>Men’s Fashion Garments</li>
+        <li>Women’s Clothing</li>
+        <li>Casual & Everyday Wear</li>
+        <li>Seasonal & Trendy Apparel</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Order & Shipping</h2>
+    <p>
+        Orders are received online through our eBay store. All products are securely packed
+        and shipped using reliable courier services to ensure timely delivery.
+    </p>
+</section>
+
+<section>
+    <h2>Payment Method</h2>
+    <p>
+        We receive international customer payments through <strong>Payoneer</strong>,
+        providing secure and compliant payment processing for our online business.
+    </p>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>
+        <strong>Email:</strong> support@wildestonefashion.com<br>
+        <strong>Business Type:</strong> Online Fashion Retailer<br>
+        <strong>Sales Platform:</strong> eBay
+    </p>
+</section>
+
+<section>
+    <h2>Business Compliance</h2>
+    <p>
+        Wildestone Fashion follows standard e-commerce business practices. We maintain
+        transparent records of orders, shipments, and payments to ensure compliance with
+        financial partners and marketplace policies.
+    </p>
+</section>
+
+<footer>
+    © 2026 Wildestone Fashion. All Rights Reserved.
+</footer>
+
+</body>
+</html>
