@@ -1,2 +1,2 @@
-# Wildestonwfashion
-Wildestonw fashion where you get discounts
+# Wildestonefashion
+Wildestone fashion where you get discounts
